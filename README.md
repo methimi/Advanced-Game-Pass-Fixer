@@ -1,4 +1,4 @@
-# Advanced Xbox Game Pass Fixer
+# 🎮 Advanced Xbox Game Pass Fixer
 
 A Windows diagnostic and repair utility designed to troubleshoot common **Xbox App**, **Game Pass**, **Gaming Services**, and **Microsoft Store** issues.
 
@@ -6,7 +6,7 @@ The tool analyzes your system, detects affected components, performs targeted re
 
 ---
 
-## Supported Platforms
+## ✅ Supported Platforms
 
 * Windows 10
 * Windows 11
@@ -15,7 +15,7 @@ Administrator privileges are recommended.
 
 ---
 
-## What This Tool Can Help Fix
+## ❓What This Tool Can Help Fix
 
 The tool is designed to diagnose and repair many common issues, including:
 
