@@ -4,6 +4,8 @@ A Windows diagnostic and repair utility designed to troubleshoot common **Game P
 
 The tool analyzes your system, detects affected components, performs targeted repairs, and verifies the results after completion.
 
+Designed to diagnose and repair common Game Pass, Xbox App, Gaming Services and Microsoft Store issues, including many of the most frequently reported Windows error codes.
+
 ---
 
 # 🖥 Supported Platforms
@@ -31,28 +33,15 @@ Advanced Game Pass Fixer helps diagnose and repair common issues such as:
 
 ---
 
+## ❗ Error Code Support
 
+Advanced Game Pass Fixer is designed to diagnose and repair a wide range of **Game Pass**, **Xbox App**, **Gaming Services**, and **Microsoft Store** error codes on Windows 10 and Windows 11.
 
-## 📚 Error Code Library
+Whether you're experiencing installation failures, update problems, licensing issues, sign-in errors, or network-related issues, the tool performs a complete diagnostic scan to identify the underlying cause before attempting any repair.
 
-Looking for a specific Game Pass or Microsoft Store error?
+Unlike generic repair scripts, Advanced Game Pass Fixer analyzes the affected components first and applies targeted repairs only where they are needed.
 
-👉 Browse the complete **[Error Code Library](errors/README.md)**.
-
-### Popular Error Codes
-
-| Error Code | Description | Error Code | Description |
-|------------|-------------|------------|-------------|
-| **[0x803F8001](errors/0x803F8001.md)** | License verification issues | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x803F8001](errors/0x803F8001.md)** | License verification issues | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x803F8001](errors/0x803F8001.md)** | License verification issues | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+The diagnostic engine is built to assist with many of the most frequently encountered Game Pass and Microsoft Store error scenarios, while also detecting underlying system problems that may not display a specific error code.
 
 ---
 
