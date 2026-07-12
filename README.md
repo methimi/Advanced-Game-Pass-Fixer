@@ -31,20 +31,11 @@ Advanced Game Pass Fixer helps diagnose and repair common issues such as:
 
 ---
 
-# ❗ Common Error Codes
+## 📚 Troubleshooting Guides
 
-This repository contains troubleshooting guides for many common Xbox and Microsoft Store error codes.
+Browse the complete collection of Xbox App, Game Pass and Microsoft Store troubleshooting guides.
 
-* 0x803F8001
-* 0x80073D26
-* 0x80073CF9
-* 0x803FB107
-* 0x87E10BC6
-* 0x80070424
-* 0x80070005
-* 0x80070002
-
-📚 Browse the complete **Error Guide Library** inside the **errors/** directory.
+➡️ **[Open Troubleshooting Library](errors/README.md)**
 
 ---
 
