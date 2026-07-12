@@ -31,6 +31,8 @@ Advanced Game Pass Fixer helps diagnose and repair common issues such as:
 
 ---
 
+
+
 ## 📚 Error Code Library
 
 Looking for a specific Game Pass or Microsoft Store error?
@@ -39,11 +41,18 @@ Looking for a specific Game Pass or Microsoft Store error?
 
 ### Popular Error Codes
 
-| Error Code | Description |
-|------------|-------------|
-| **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
-| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict |
-| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation |
+| Error Code | Description | Error Code | Description |
+|------------|-------------|------------|-------------|
+| **[0x803F8001](errors/0x803F8001.md)** | License verification issues | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x803F8001](errors/0x803F8001.md)** | License verification issues | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x803F8001](errors/0x803F8001.md)** | License verification issues | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation | **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
 
 ---
 
