@@ -31,11 +31,19 @@ Advanced Game Pass Fixer helps diagnose and repair common issues such as:
 
 ---
 
-## 📚 Troubleshooting Guides
+## 📚 Error Code Library
 
-Browse the complete collection of Xbox App, Game Pass and Microsoft Store troubleshooting guides.
+Looking for a specific Game Pass or Microsoft Store error?
 
-➡️ **[Open Troubleshooting Library](errors/README.md)**
+👉 Browse the complete **[Error Code Library](errors/README.md)**.
+
+### Popular Error Codes
+
+| Error Code | Description |
+|------------|-------------|
+| **[0x803F8001](errors/0x803F8001.md)** | License verification issues |
+| **[0x80073D26](errors/0x80073D26.md)** | Gaming Services installation conflict |
+| **[0x87E10BC6](errors/0x87E10BC6.md)** | Game Pass license validation |
 
 ---
 
