@@ -43,6 +43,8 @@ Unlike generic repair scripts, Advanced Game Pass Fixer analyzes the affected co
 
 The diagnostic engine is built to assist with many of the most frequently encountered Game Pass and Microsoft Store error scenarios, while also detecting underlying system problems that may not display a specific error code.
 
+Error code [**0x80070426**](errors/0x80070426.md)
+
 ---
 
 # 🔍 Diagnostics
